@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to another slide!"
 ---
 kekw jerome
 use the left arrow to go back
